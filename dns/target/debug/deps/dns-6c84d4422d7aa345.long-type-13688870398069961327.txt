@@ -1,0 +1,1 @@
+FlatMap<impl Iterator<Item = (&str, &str)>, Map<FilterMap<std::slice::Iter<'_, DNSRecord>, {closure@src\dnspacket.rs:104:29: 104:42}>, {closure@src\dnspacket.rs:107:24: 107:30}>, {closure@src\dnspacket.rs:100:37: 100:48}>
